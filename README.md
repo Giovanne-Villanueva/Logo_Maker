@@ -52,7 +52,7 @@ Example of logo created with data entered from the previous image above.
 
 ![Logo created from project](./images/logo.png)
 
-Here is a link to my video demo: [https://drive.google.com/file/d/10ejRQoMuxBi7kimMh-PXkChghLq_pH9s/view ]
+Here is a link to my video demo: https://drive.google.com/file/d/10ejRQoMuxBi7kimMh-PXkChghLq_pH9s/view 
 
 
 ## Credits
